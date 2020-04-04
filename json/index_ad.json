@@ -1,24 +1,36 @@
 {
   "data": [
     {
-      "ad_des": "龙陵繁昌木业介绍",
-      "ad_img_url": "https://raw.githubusercontent.com/57xiaoyu/fcassistant_public/master/image/02.png",
+      "ad_des": "木材助手V2.0版本说明",
+      "ad_img_url": "https://cdn.jsdelivr.net/gh/57xiaoyu/fcassistant_public/image/v20_1.png",
       "ad_type": "2",
-      "ad_url": "http://u2039826.viewer.maka.im/k/O8IDC7K0"
+      "ad_url": "http://maka.im/danyeviewer/2299444/5HRTGKCTW2299444"
+    },
+    {
+      "ad_des": "木材助手视频教程",
+      "ad_img_url": "https://cdn.jsdelivr.net/gh/57xiaoyu/fcassistant_public/image/03.png",
+      "ad_type": "2",
+      "ad_url": "http://maka.im/danyeviewer/2299444/KTD1JYDJW2299444"
+    },
+    {
+      "ad_des": "龙陵繁昌木业胶合板生产工艺",
+      "ad_img_url": "https://cdn.jsdelivr.net/gh/57xiaoyu/fcassistant_public/image/04.png",
+      "ad_type": "2",
+      "ad_url": "http://maka.im/danyeviewer/2299444/8L8MUXG7W2299444"
     },
     {
       "ad_des": "龙陵繁昌木业介绍",
-      "ad_img_url": "https://note.youdao.com/yws/public/resource/a7c9ac5912cb7d05d332d7ac81e3311f/xmlnote/FF8311F3182C42FAAF7051CAF00E19DA/2826",
+      "ad_img_url": "https://cdn.jsdelivr.net/gh/57xiaoyu/fcassistant_public/image/banner1.png",
       "ad_type": "2",
       "ad_url": "http://u2039826.viewer.maka.im/k/O8IDC7K0"
     },
     {
       "ad_des": "木材助手下载",
-      "ad_img_url": "https://note.youdao.com/yws/public/resource/a7c9ac5912cb7d05d332d7ac81e3311f/xmlnote/C99D0D498BB649468C3B7B87B65EF5E9/2824",
+      "ad_img_url": "https://cdn.jsdelivr.net/gh/57xiaoyu/fcassistant_public/image/banner2.jpg",
       "ad_type": "1",
       "ad_url": "http://sj.qq.com/myapp/detail.htm?apkName=com.cch.fcassistant"
     }
   ],
-  "msg": "获取广告成功",
+  "msg": "获取广告成功1",
   "status": 1
 }
